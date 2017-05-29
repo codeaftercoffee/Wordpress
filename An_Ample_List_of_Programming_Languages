@@ -1,11 +1,12 @@
 <!--
 HTML / CSS SOURCES
 	Wrapping text around a div: https://stackoverflow.com/questions/13296762/how-to-wrap-text-around-a-div
-	Table of COntents: https://stackoverflow.com/questions/10932449/table-of-contents-html-link
+	Table of Contents: https://stackoverflow.com/questions/10932449/table-of-contents-html-link
 	Layout with sidebar: https://stackoverflow.com/questions/29960458/making-a-simple-layout-with-a-sidebar-in-html-css
--->
+	Five Ways to Hide Elements in CSS: https://www.sitepoint.com/five-ways-to-hide-elements-in-css/
+	-->
 
-<div id="everything" style="width: auto; height: auto; ">
+<div id="everything" style="width: auto; height: auto;">
 	<!-- Table of Contents in a Left aside section -->
 	<div class="table_of_contents_column" style="height: auto; width: 25%; margin: 5%; float: left; ">
 		<a href="#4D"> 4D</a><br>
@@ -60,473 +61,423 @@ HTML / CSS SOURCES
 	</div>
 		
 	<div class="languagesfulllist" style="padding:.25%; text-align: justify; margin: 0.5%;">
-		<ol>
-			<div id="4D" style="padding-top:.1%; padding-bottom:.1%;">
-				<h3><strong>4th Dimension / 4D</strong></h3>
-					<p>4th Dimension, or 4D, is a relational database management system and IDE. Since its release in 1987, the product line has expanded to include an SQL back-end, integrated compiler, integration of PHP, and a few productivity plug-ins and interfaces. 4D can also be used as a web server, to run compiled database applications.</p>
-					<p>4th Dimension was developed by Laurent Ribardière in 1984. It was published in 1987 with the French businesswoman Marylene Delbourg-Delphish. It was known as Silver Surfer during the early stages of development. Apple Inc. initially negotiated to release the software, but later declined. Even though the software was independently published, Apple actively supported and used 4D throughout the organization. Today, 4D is published by the French company 4D SAS.</p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/4th_Dimension_%28software%29" target="_blank" rel="noopener noreferrer">"4th Dimension (software)" - Wikipedia</a></li>
-						<li><a href="http://www.4d.com/" target="_blank" rel="noopener noreferrer">4D website</a></li>
-					</ul>					
-			</div>
-			
-			<div id="ABAP" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>ABAP</strong></h3>
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" rel="noopener noreferrer">"ABAP" - Wikipedia</a></li>
-						<li><a href="https://help.sap.com/doc/abapdocu_740_index_htm/7.40/en-US/index.htm" target="_blank" rel="noopener noreferrer">ABAP - Keyword Documentation</a></li>
-						<li><a href="https://www.sap.com/community/topic/abap.html" target="_blank" rel="noopener noreferrer">ABAP Development Community</a></li>
-					</ul>	
-			</div>
+		<div id="4D" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>4th Dimension / 4D</strong></h3>
+				<p>4th Dimension, or 4D, is a relational database management system and IDE. Since its release in 1987, the product line has expanded to include an SQL back-end, integrated compiler, integration of PHP, and a few productivity plug-ins and interfaces. 4D can also be used as a web server, to run compiled database applications.</p>
+				<p>4th Dimension was developed by Laurent Ribardière in 1984. It was published in 1987 with the French businesswoman Marylene Delbourg-Delphish. It was known as Silver Surfer during the early stages of development. Apple Inc. initially negotiated to release the software, but later declined. Even though the software was independently published, Apple actively supported and used 4D throughout the organization. Today, 4D is published by the French company 4D SAS.</p>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/4th_Dimension_%28software%29" target="_blank" rel="noopener noreferrer">"4th Dimension (software)" - Wikipedia</a></li>
+					<li><a href="http://www.4d.com/" target="_blank" rel="noopener noreferrer">4D website</a></li>
+				</ul>					
+		</div>
+		
+		<div id="ABAP" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>ABAP</strong></h3>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" rel="noopener noreferrer">"ABAP" - Wikipedia</a></li>
+					<li><a href="https://help.sap.com/doc/abapdocu_740_index_htm/7.40/en-US/index.htm" target="_blank" rel="noopener noreferrer">ABAP - Keyword Documentation</a></li>
+					<li><a href="https://www.sap.com/community/topic/abap.html" target="_blank" rel="noopener noreferrer">ABAP Development Community</a></li>
+				</ul>	
+		</div>
 
-			<div id="ABC" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>ABC</strong></h3>
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ABC_%28programming_language%29" target="_blank" rel="noopener noreferrer">"ABC (programming language)" - Wikipedia</a></li>
-						<li><a href="http://homepages.cwi.nl/~steven/abc/programmers/handbook.html" target="_blank" rel="noopener noreferrer">The ABC Programmers' Handbook</a></li>
-						<li><a href="http://homepages.cwi.nl/~steven/abc/" target="_blank" rel="noopener noreferrer">The ABC Programming Language: a short introduction</a></li>
-					</ul>
-			</div>
+		<div id="ABC" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>ABC</strong></h3>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ABC_%28programming_language%29" target="_blank" rel="noopener noreferrer">"ABC (programming language)" - Wikipedia</a></li>
+					<li><a href="http://homepages.cwi.nl/~steven/abc/programmers/handbook.html" target="_blank" rel="noopener noreferrer">The ABC Programmers' Handbook</a></li>
+					<li><a href="http://homepages.cwi.nl/~steven/abc/" target="_blank" rel="noopener noreferrer">The ABC Programming Language: a short introduction</a></li>
+				</ul>
+		</div>
+		
+		<div id="ActionScript" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>ActionScript</strong></h3>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ActionScript" target="_blank" rel="noopener noreferrer">"ActionScript" - Wikipedia</a></li>
+					<li><a href="http://www.adobe.com/devnet/actionscript.html" target="_blank" rel="noopener noreferrer">ActionScript Technology Center - Adobe Developer Connection</a></li>
+				</ul>
+		</div>
+		
+		<div id="Ada" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Ada</strong></h3>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Ada_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Ada (programming language)" - Wikipedia</a></li>
+					<li><a href="https://dmoztools.net/Computers/Programming/Languages/Ada/" target="_blank" rel="noopener noreferrer">Ada - dmoztools</a></li>
+					<li><a href="http://www.sigada.org/" target="_blank" rel="noopener noreferrer">The Special Interest Group on Ada (ACM’s SIGAda)</a></li>
+				</ul>
+		</div>
+		
+		<div id="Agilent_VEE" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Agilent VEE</strong></h3>
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Keysight_VEE" target="_blank" rel="noopener noreferrer">"Keysight VEE" - Wikipedia</a></li>
+					<li><a href="http://www.keysight.com/find/vee" target="_blank" rel="noopener noreferrer">Keysight Technologies, Keysight VEE</a></li>
+				</ul>
+		</div>
+		
+		<div id="Algol" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Algol</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ALGOL" target="_blank" rel="noopener noreferrer">"ALGOL" - Wikipedia</a></li>
+					<li><a href="http://www.softwarepreservation.org/projects/ALGOL/" target="_blank" rel="noopener noreferrer">History of ALGOL</a></li>
+					<li><a href="https://www.vintagebigblue.org/Compilerator/ALGOLF/mvsAlgolFCompile.php" target="_blank" rel="noopener noreferrer">Web enabled ALGOL-F compiler for small experiments</a></li>
+				</ul>
+		</div>
 			
-			<div id="ActionScript" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>ActionScript</strong></h3>
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ActionScript" target="_blank" rel="noopener noreferrer">"ActionScript" - Wikipedia</a></li>
-						<li><a href="http://www.adobe.com/devnet/actionscript.html" target="_blank" rel="noopener noreferrer">ActionScript Technology Center - Adobe Developer Connection</a></li>
-					</ul>
-			</div>
-			
-			<div id="Ada" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Ada</strong></h3>
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Ada_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Ada (programming language)" - Wikipedia</a></li>
-						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Ada/" target="_blank" rel="noopener noreferrer">Ada - dmoztools</a></li>
-						<li><a href="http://www.sigada.org/" target="_blank" rel="noopener noreferrer">The Special Interest Group on Ada (ACM’s SIGAda)</a></li>
-					</ul>
-			</div>
-			
-			<div id="Agilent_VEE" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Agilent VEE</strong></h3>
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Keysight_VEE" target="_blank" rel="noopener noreferrer">"Keysight VEE" - Wikipedia</a></li>
-						<li><a href="http://www.keysight.com/find/vee" target="_blank" rel="noopener noreferrer">Keysight Technologies, Keysight VEE</a></li>
-					</ul>
-			</div>
-			
-			<div id="Algol" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Algol</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ALGOL" target="_blank" rel="noopener noreferrer">"ALGOL" - Wikipedia</a></li>
-						<li><a href="http://www.softwarepreservation.org/projects/ALGOL/" target="_blank" rel="noopener noreferrer">History of ALGOL</a></li>
-						<li><a href="https://www.vintagebigblue.org/Compilerator/ALGOLF/mvsAlgolFCompile.php" target="_blank" rel="noopener noreferrer">Web enabled ALGOL-F compiler for small experiments</a></li>
-					</ul>
-			</div>
+		<div id="Alice" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Alice</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Alice_%28software%29" target="_blank" rel="noopener noreferrer">"Alice (software)" - Wikipedia</a></li>
+					<li><a href="http://www.alice.org/" target="_blank" rel="noopener noreferrer">Alice - Official website</a></li>
+				</ul>
+		</div>
+		
+		<div id="Angelscript" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Angelscript</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="http://www.angelcode.com/angelscript/" target="_blank" rel="noopener noreferrer">"Angelscript" - AngelCode</a></li>
+					<li><a href="https://www.gamedev.net/forum/49-angelcode/" target="_blank" rel="noopener noreferrer">"AngelCode forums" - gamedev.net</a></li>
+					<li><a href="http://angelscript.pbworks.com/w/page/13041783/FrontPage" target="_blank" rel="noopener noreferrer">Angelscript - Community Wiki</a></li>
+					<li><a href="http://www.angelcode.com/angelscript/resources.html" target="_blank" rel="noopener noreferrer">Resources and support for Angelscript</a></li>
+				</ul>
 				
-			<div id="Alice" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Alice</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Alice_%28software%29" target="_blank" rel="noopener noreferrer">"Alice (software)" - Wikipedia</a></li>
-						<li><a href="http://www.alice.org/" target="_blank" rel="noopener noreferrer">Alice - Official website</a></li>
-					</ul>
-			</div>
-			
-			<div id="Angelscript" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Angelscript</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="http://www.angelcode.com/angelscript/" target="_blank" rel="noopener noreferrer">"Angelscript" - AngelCode</a></li>
-						<li><a href="https://www.gamedev.net/forum/49-angelcode/" target="_blank" rel="noopener noreferrer">"AngelCode forums" - gamedev.net</a></li>
-						<li><a href="http://angelscript.pbworks.com/w/page/13041783/FrontPage" target="_blank" rel="noopener noreferrer">Angelscript - Community Wiki</a></li>
-						<li><a href="http://www.angelcode.com/angelscript/resources.html" target="_blank" rel="noopener noreferrer">Resources and support for Angelscript</a></li>
-					</ul>
-					
-					
-			</div>
-			
-			<div id="Apex" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Apex</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://developer.salesforce.com/page/Apex" target="_blank" rel="noopener noreferrer">Apex - Salesforce Developers</a></li>
-						<li><a href="https://developer.salesforce.com/page/An_Introduction_to_Apex" target="_blank" rel="noopener noreferrer">An Intro to Force.com Apex Code - Salesforce Developers</a></li>
-						<li><a href="https://developer.salesforce.com/page/Apex_Code_Best_Practices" target="_blank" rel="noopener noreferrer">Apex Code Best Pracetices - Salesforce Developers</a></li>
-					</ul>
-			</div>
-			
-			<div id="APL" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>APL</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/APL_%28programming_language%29" target="_blank" rel="noopener noreferrer">"APL (programming language)" - Wikipedia</a></li>
-						<li><a href="http://www.sigapl.org/" target="_blank" rel="noopener noreferrer">SIGPLAN Chapter on Array-Programming Languages</a></li>
-						<li><a href="http://aplwiki.com/" target="_blank" rel="noopener noreferrer">APL Wiki Frontpage</a></li>
-						<li><a href="https://dmoztools.net/Computers/Programming/Languages/APL/" target="_blank" rel="noopener noreferrer">APL - dmoztools</a></li>
-					</ul>
-			</div>
-			
-			<div id="AppleScript" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>AppleScript</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AppleScript" target="_blank" rel="noopener noreferrer">"AppleScript" - Wikipedia</a></li>
-						<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Overview - Apple Inc.</a></li>
-						<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Language Guide - Apple Inc.</a></li>
-						<li><a href="https://dmoztools.net/Computers/Systems/Apple/Macintosh/Development/Languages/Scripting/AppleScript/" target="_blank" rel="noopener noreferrer">AppleScript - dmoztools</a></li>
-					</ul>
-			</div>
-			
-			<div id="Arc" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Arc</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Arc" target="_blank" rel="noopener noreferrer">"Arc (programming language)" - Wikipedia</a></li>
-						<li><a href="http://arclanguage.org/" target="_blank" rel="noopener noreferrer">Arc - Official website</a></li>
-						<li><a href="https://arclanguage.github.io/" target="_blank" rel="noopener noreferrer">Arc at Github</a></li>
-						<li><a href="http://tryarc.org/arc-tutorial/" target="_blank" rel="noopener noreferrer">Arc Tutorial</a></li>
-					</ul>
-			</div>
-					
-			<div id="Arduino" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Arduino</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino" - Wikipedia</a></li>
-						<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official website</a></li>
-						<li><a href="http://imgur.com/yGRLPvL" target="_blank" rel="noopener noreferrer">Evolution of Arduino</a></li>
-						<li><a href="http://robodino.org/resources/arduino" target="_blank" rel="noopener noreferrer">Arduino Cheat Sheet</a></li>
-					</ul>			
-			</div>
+				
+		</div>
+		
+		<div id="Apex" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Apex</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://developer.salesforce.com/page/Apex" target="_blank" rel="noopener noreferrer">Apex - Salesforce Developers</a></li>
+					<li><a href="https://developer.salesforce.com/page/An_Introduction_to_Apex" target="_blank" rel="noopener noreferrer">An Intro to Force.com Apex Code - Salesforce Developers</a></li>
+					<li><a href="https://developer.salesforce.com/page/Apex_Code_Best_Practices" target="_blank" rel="noopener noreferrer">Apex Code Best Pracetices - Salesforce Developers</a></li>
+				</ul>
+		</div>
+		
+		<div id="APL" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>APL</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/APL_%28programming_language%29" target="_blank" rel="noopener noreferrer">"APL (programming language)" - Wikipedia</a></li>
+					<li><a href="http://www.sigapl.org/" target="_blank" rel="noopener noreferrer">SIGPLAN Chapter on Array-Programming Languages</a></li>
+					<li><a href="http://aplwiki.com/" target="_blank" rel="noopener noreferrer">APL Wiki Frontpage</a></li>
+					<li><a href="https://dmoztools.net/Computers/Programming/Languages/APL/" target="_blank" rel="noopener noreferrer">APL - dmoztools</a></li>
+				</ul>
+		</div>
+		
+		<div id="AppleScript" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>AppleScript</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AppleScript" target="_blank" rel="noopener noreferrer">"AppleScript" - Wikipedia</a></li>
+					<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Overview - Apple Inc.</a></li>
+					<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Language Guide - Apple Inc.</a></li>
+					<li><a href="https://dmoztools.net/Computers/Systems/Apple/Macintosh/Development/Languages/Scripting/AppleScript/" target="_blank" rel="noopener noreferrer">AppleScript - dmoztools</a></li>
+				</ul>
+		</div>
+		
+		<div id="Arc" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Arc</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Arc" target="_blank" rel="noopener noreferrer">"Arc (programming language)" - Wikipedia</a></li>
+					<li><a href="http://arclanguage.org/" target="_blank" rel="noopener noreferrer">Arc - Official website</a></li>
+					<li><a href="https://arclanguage.github.io/" target="_blank" rel="noopener noreferrer">Arc at Github</a></li>
+					<li><a href="http://tryarc.org/arc-tutorial/" target="_blank" rel="noopener noreferrer">Arc Tutorial</a></li>
+				</ul>
+		</div>
+				
+		<div id="Arduino" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Arduino</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino" - Wikipedia</a></li>
+					<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official website</a></li>
+					<li><a href="http://imgur.com/yGRLPvL" target="_blank" rel="noopener noreferrer">Evolution of Arduino</a></li>
+					<li><a href="http://robodino.org/resources/arduino" target="_blank" rel="noopener noreferrer">Arduino Cheat Sheet</a></li>
+				</ul>			
+		</div>
 
-			<div id="ASP" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>ASP</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Active_Server_Pages" target="_blank" rel="noopener noreferrer">"Active Server Pages (ASP)" - Wikipedia</a></li>
-						<li><a href="https://msdn.microsoft.com/en-us/library/aa286483.aspx" target="_blank" rel="noopener noreferrer">ASP on MSDN</a></li>
-						<li><a href="https://support.microsoft.com/en-us/help/2669020/active-server-pages-asp-support-in-windows" target="_blank" rel="noopener noreferrer">Microsoft Support for ASP on Windows</a></li>
-					</ul>			
-			</div>
-			
-			<div id="AspectJ" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>AspectJ</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AspectJ" target="_blank" rel="noopener noreferrer">"AspectJ" - Wikipedia</a></li>
-						<li><a href="http://www.eclipse.org/ajdt/" target="_blank" rel="noopener noreferrer">AspectJ Home Page</a></li>
-						<li><a href="http://www.sable.mcgill.ca/abc/" target="_blank" rel="noopener noreferrer">The AspectBench Compiler for AspectJ</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Assembly" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Assembly</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noopener noreferrer">"Assembly Language" - Wikipedia</a></li>
-						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Assembly/" target="_blank" rel="noopener noreferrer">Assembly - dmoztools</a></li>
-					</ul>			
-			</div>
-			
-			<div id="ATLAS" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>ATLAS</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ATLAS_Transformation_Language" target="_blank" rel="noopener noreferrer">"ATLAS Transformation Language" - Wikipedia</a></li>
-						<li><a href="http://www.eclipse.org/atl/" target="_blank" rel="noopener noreferrer">ATL - Official website</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Augeas" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Augeas</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Augeas_%28software%29" target="_blank" rel="noopener noreferrer">"Augeas (software)" - Wikipedia</a></li>
-						<li><a href="http://augeas.net/" target="_blank" rel="noopener noreferrer">Augeas - Official website</a></li>
-					</ul>			
-			</div>
-			
-			<div id="AutoHotkey" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>AutoHotkey</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener noreferrer">"AutoHotkey" - Wikipedia</a></li>
-						<li><a href="https://autohotkey.com/" target="_blank" rel="noopener noreferrer">AutoHotkey - Official website</a></li>
-						<li><a href="https://autohotkey.com/foundation/" target="_blank" rel="noopener noreferrer">AutoHotkey Foundation LLC</a></li>
-					</ul>			
-			</div>
-			
-			<div id="AutoIt" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>AutoIt</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoIt" target="_blank" rel="noopener noreferrer">"AutoIt" - Wikipedia</a></li>
-						<li><a href="https://www.autoitscript.com/site/" target="_blank" rel="noopener noreferrer">AutoIt - Official website</a></li>
-					</ul>			
-			</div>
-			
-			<div id="AutoLISP" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>AutoLISP</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoLISP" target="_blank" rel="noopener noreferrer">"AutoLISP" - Wikipedia</a></li>
-						<li><a href="http://www.faqs.org/faqs/CAD/autolisp-faq/" target="_blank" rel="noopener noreferrer">AutoLISP - FAQ</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Automator" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Automator</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Automator" target="_blank" rel="noopener noreferrer">"Automator" - Wikipedia</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Avenue" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Avenue</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ArcView_3.x" target="_blank" rel="noopener noreferrer">"ArcView_3.x" - Wikipedia</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Awk" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Awk</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AWK" target="_blank" rel="noopener noreferrer">"AWK" - Wikipedia</a></li>
-						<li><a href="http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/" target="_blank" rel="noopener noreferrer">The Amazing Awk Assembler by Henry Spencer</a></li>
-						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Awk/" target="_blank" rel="noopener noreferrer">AWK - dmoztools</a></li>
-						<li><a href="https://github.com/danfuzz/one-true-awk" target="_blank" rel="noopener noreferrer">Git repository of the direct lineage of the original AWK source code</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Bash" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Bash</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" rel="noopener noreferrer">"Bash (Unix shell)" - Wikipedia</a></li>
-						<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">Bash - Official website</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Visual_Basic" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>(Visual) Basic</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noopener noreferrer">"Visual Basic" - Wikipedia</a></li>
-						<li><a href="https://msdn.microsoft.com/en-gb/dd408373.aspx" target="_blank" rel="noopener noreferrer">Secure your Visual Basic 6.0 investment with Microsoft .NET</a></li>
-					</ul>			
-			</div>
+		<div id="ASP" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>ASP</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Active_Server_Pages" target="_blank" rel="noopener noreferrer">"Active Server Pages (ASP)" - Wikipedia</a></li>
+					<li><a href="https://msdn.microsoft.com/en-us/library/aa286483.aspx" target="_blank" rel="noopener noreferrer">ASP on MSDN</a></li>
+					<li><a href="https://support.microsoft.com/en-us/help/2669020/active-server-pages-asp-support-in-windows" target="_blank" rel="noopener noreferrer">Microsoft Support for ASP on Windows</a></li>
+				</ul>			
+		</div>
+		
+		<div id="AspectJ" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>AspectJ</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AspectJ" target="_blank" rel="noopener noreferrer">"AspectJ" - Wikipedia</a></li>
+					<li><a href="http://www.eclipse.org/ajdt/" target="_blank" rel="noopener noreferrer">AspectJ Home Page</a></li>
+					<li><a href="http://www.sable.mcgill.ca/abc/" target="_blank" rel="noopener noreferrer">The AspectBench Compiler for AspectJ</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Assembly" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Assembly</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noopener noreferrer">"Assembly Language" - Wikipedia</a></li>
+					<li><a href="https://dmoztools.net/Computers/Programming/Languages/Assembly/" target="_blank" rel="noopener noreferrer">Assembly - dmoztools</a></li>
+				</ul>			
+		</div>
+		
+		<div id="ATLAS" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>ATLAS</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ATLAS_Transformation_Language" target="_blank" rel="noopener noreferrer">"ATLAS Transformation Language" - Wikipedia</a></li>
+					<li><a href="http://www.eclipse.org/atl/" target="_blank" rel="noopener noreferrer">ATL - Official website</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Augeas" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Augeas</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Augeas_%28software%29" target="_blank" rel="noopener noreferrer">"Augeas (software)" - Wikipedia</a></li>
+					<li><a href="http://augeas.net/" target="_blank" rel="noopener noreferrer">Augeas - Official website</a></li>
+				</ul>			
+		</div>
+		
+		<div id="AutoHotkey" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>AutoHotkey</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener noreferrer">"AutoHotkey" - Wikipedia</a></li>
+					<li><a href="https://autohotkey.com/" target="_blank" rel="noopener noreferrer">AutoHotkey - Official website</a></li>
+					<li><a href="https://autohotkey.com/foundation/" target="_blank" rel="noopener noreferrer">AutoHotkey Foundation LLC</a></li>
+				</ul>			
+		</div>
+		
+		<div id="AutoIt" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>AutoIt</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AutoIt" target="_blank" rel="noopener noreferrer">"AutoIt" - Wikipedia</a></li>
+					<li><a href="https://www.autoitscript.com/site/" target="_blank" rel="noopener noreferrer">AutoIt - Official website</a></li>
+				</ul>			
+		</div>
+		
+		<div id="AutoLISP" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>AutoLISP</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AutoLISP" target="_blank" rel="noopener noreferrer">"AutoLISP" - Wikipedia</a></li>
+					<li><a href="http://www.faqs.org/faqs/CAD/autolisp-faq/" target="_blank" rel="noopener noreferrer">AutoLISP - FAQ</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Automator" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Automator</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Automator" target="_blank" rel="noopener noreferrer">"Automator" - Wikipedia</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Avenue" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Avenue</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ArcView_3.x" target="_blank" rel="noopener noreferrer">"ArcView_3.x" - Wikipedia</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Awk" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Awk</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/AWK" target="_blank" rel="noopener noreferrer">"AWK" - Wikipedia</a></li>
+					<li><a href="http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/" target="_blank" rel="noopener noreferrer">The Amazing Awk Assembler by Henry Spencer</a></li>
+					<li><a href="https://dmoztools.net/Computers/Programming/Languages/Awk/" target="_blank" rel="noopener noreferrer">AWK - dmoztools</a></li>
+					<li><a href="https://github.com/danfuzz/one-true-awk" target="_blank" rel="noopener noreferrer">Git repository of the direct lineage of the original AWK source code</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Bash" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Bash</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" rel="noopener noreferrer">"Bash (Unix shell)" - Wikipedia</a></li>
+					<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">Bash - Official website</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Visual_Basic" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>(Visual) Basic</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noopener noreferrer">"Visual Basic" - Wikipedia</a></li>
+					<li><a href="https://msdn.microsoft.com/en-gb/dd408373.aspx" target="_blank" rel="noopener noreferrer">Secure your Visual Basic 6.0 investment with Microsoft .NET</a></li>
+				</ul>			
+		</div>
 
-			<div id="bc" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>bc</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bc_(programming_language)" target="_blank" rel="noopener noreferrer">"bc (programming language)" - Wikipedia</a></li>
-						<li><a href="http://sciencesoft.at/bc/?lang=en" target="_blank" rel="noopener noreferrer">Online version of GNU bc</a></li>
-						<li><a href="http://phodd.net/gnu-bc/" target="_blank" rel="noopener noreferrer">Collection of useful GNU bc functions</a></li>
-					</ul>			
-			</div>
-			
-			<div id="BCPL" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>BCPL</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/BCPL" target="_blank" rel="noopener noreferrer">"BCPL" - Wikipedia</a></li>
-						<li><a href="http://www.cl.cam.ac.uk/~mr10/BCPL.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL distribution</a></li>
-						<li><a href="https://www.bell-labs.com/usr/dmr/www/bcpl.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL Reference Manual by Dennis M. Ritchie including his commentary about BCPL's influence on C</a></li>
-						<li><a href="http://www.catb.org/~esr/jargon/html/B/BCPL.html" target="_blank" rel="noopener noreferrer">BCPL entry in the Jargon File</a></li>
-						<li><a href="http://cpcwiki.eu/imgs/3/3a/ArnorBCPL.pdf" target="_blank" rel="noopener noreferrer">ArnorBCPL manual</a></li>
-					</ul>			
-			</div>
-			
-			<div id="BETA" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>BETA</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/BETA_(programming_language)" target="_blank" rel="noopener noreferrer">"BETA (programming language)" - Wikipedia</a></li>
-						<li><a href="http://cs.au.dk/~beta/" target="_blank" rel="noopener noreferrer">BETA - Official website</a></li>
-						<li><a href="http://www.daimi.au.dk/~eernst/gbeta/" target="_blank" rel="noopener noreferrer">gbeta - Generalized BETA</a></li>
-					</ul>			
-			</div>
-			
-			<div id="BlitzMax" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>BlitzMax</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Blitz_BASIC" target="_blank" rel="noopener noreferrer">"Blitz BASIC / BlitzMax" - Wikipedia</a></li>
-						<li><a href="https://github.com/blitz-research/" target="_blank" rel="noopener noreferrer">/blitz-research BlitzPlus, Blitz3D, BlitzMax source code repository on github.com</a></li>
-						<li><a href="https://github.com/blitz-research/blitzmax" target="_blank" rel="noopener noreferrer">blitzmax on github.com</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Boo" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Boo</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Boo_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Boo (programming language)" - Wikipedia</a></li>
-						<li><a href="http://boo-lang.org/" target="_blank" rel="noopener noreferrer">Boo - Official website</a></li>
-						<li><a href="https://github.com/boo-lang/" target="_blank" rel="noopener noreferrer">The sources of Boo hosted on GitHub</a></li>
-						<li><a href="https://github.com/boo-lang/boo/wiki" target="_blank" rel="noopener noreferrer">The documentation of Boo hosted on GitHub</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Bourne_shell" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Bourne shell</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bourne_shell" target="_blank" rel="noopener noreferrer">"Bourne shell" - Wikipedia</a></li>
-						<li><a href="https://www.in-ulm.de/~mascheck/bourne/" target="_blank" rel="noopener noreferrer">The individual members of "The Traditional Bourne Shell Family"</a></li>
-						<li><a href="https://www.in-ulm.de/~mascheck/bourne/common.html" target="_blank" rel="noopener noreferrer">Characteristical common properties of the traditional Bourne shells</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Bro" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Bro</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"Bro (software)" - Wikipedia</a></li>
-						<li><a href="https://www.bro.org/" target="_blank" rel="noopener noreferrer">Bro IDS Home page</a></li>
-						<li><a href="http://www.icir.org/vern/papers/bro-CN99.html" target="_blank" rel="noopener noreferrer">The original paper describing Bro</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C (programming language)" - Wikipedia</a></li>
-						<li><a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noopener noreferrer">ISO C Working Group Official website</a></li>
-						<li><a href="http://www.c-faq.com/" target="_blank" rel="noopener noreferrer">comp.lang.c Frequently Asked Questions</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C_shell" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C shell</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C shell" - Wikipedia</a></li>
-						<li><a href="https://docs.freebsd.org/44doc/usd/04.csh/paper.html" target="_blank" rel="noopener noreferrer"><i>An Introduction to the C shell</i> by William Joy.</a></li>
-						<li><a href="https://docstore.mik.ua/orelly/linux/lnut/ch08_01.htm" target="_blank" rel="noopener noreferrer">Linux in a Nutshell: Chapter 8. csh and tcsh</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C_sharp" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C#</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29" target="_blank" rel="noopener noreferrer">"C Sharp (programming language)" - Wikipedia</a></li>
-						<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification" target="_blank" rel="noopener noreferrer">C# Language Specification (from MSDN)</a></li>
-						<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index" target="_blank" rel="noopener noreferrer">C# Programming Guide (MSDN)</a></li>
-						<li><a href="http://www.kunal-chowdhury.com/2016/01/csharp-basics.html#wEt7R6qV55ySmeZp.97" target="_blank" rel="noopener noreferrer">List of Key features introduced in #CSharp (1.0 to 6.0) - an Infographic</a></li>
-						<li><a href="https://www.visualstudio.com/" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C_plus_plus" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C++</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noopener noreferrer">"C++" - Wikipedia</a></li>
-						<li><a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">Standard C++ Foundation</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C_plus_plus_CLI" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C++/CLI</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/C++/CLI" target="_blank" rel="noopener noreferrer">"C++/CLI" - Wikipedia</a></li>
-						<li><a href="http://www.ecma-international.org/publications/standards/Ecma-372.htm" target="_blank" rel="noopener noreferrer">ECMA 372: C++/CLI Language Specification</a></li>
-						<li><a href="https://blogs.msdn.microsoft.com/hsutter/2003/11/23/ccli-keywords-under-the-hood/" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI keywords: Under the hood</a></li>
-						<li><a href="http://www.gotw.ca/publications/C++CLIRationale.pdf" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI Rationale</a></li>
-						<li><a href="https://msdn.microsoft.com/en-us/library/xey702bw.aspx" target="_blank" rel="noopener noreferrer">MSDN documentation for C++/CLI</a></li>
-					</ul>			
-			</div>
-			
-			<div id="C_Omega" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>C-Omega</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/C%CF%89" target="_blank" rel="noopener noreferrer">"Cω" - Wikipedia</a></li>
-						<li><a href="https://www.microsoft.com/en-us/research/project/comega/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fcambridge%2Fprojects%2Fcomega%2F" target="_blank" rel="noopener noreferrer">Comega - Microsoft Research</a></li>
-						<li><a href="https://msdn.microsoft.com/en-us/library/ms974195.aspx" target="_blank" rel="noopener noreferrer">"An Overview of Cω" - MSDN</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Caml" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Caml</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Caml" target="_blank" rel="noopener noreferrer">"Caml" - Wikipedia</a></li>
-						<li><a href="http://caml.inria.fr/" target="_blank" rel="noopener noreferrer">Caml - Official website</a></li>
-						<li><a href="https://caml.inria.fr/about/history.en.html" target="_blank" rel="noopener noreferrer">A History of Caml - Official website</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Ceylon" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Ceylon</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Ceylon_(programming_language)" target="_blank" rel="noopener noreferrer">"Ceylon" - Wikipedia</a></li>
-						<li><a href="https://ceylon-lang.org/" target="_blank" rel="noopener noreferrer">Ceylon - Official website</a></li>
-						<li><a href="https://ceylon-lang.org/documentation/1.2/spec/html_single/#compilationunitstructure" target="_blank" rel="noopener noreferrer">King, Gavin. "The Ceylon Language: &sect;4.1 Compilation unit structure"</a></li>
-					</ul>			
-			</div>
-			
-			<div id="CFML" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>CFML</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ColdFusion_Markup_Language" target="_blank" rel="noopener noreferrer">"ColdFusion Markup Language" - Wikipedia</a></li>
-						<li><a href="https://cfdocs.org/" target="_blank" rel="noopener noreferrer">CFML documentation maintained by the community.</a></li>
-						<li><a href="https://github.com/mhenke/CFML-in-100-minutes/blob/develop/cfml100mins.markdown" target="_blank" rel="noopener noreferrer">CFML in 100 minutes — introduction to the basics of the CFML language.</a></li>
-						<li><a href="http://learncfinaweek.com/" target="_blank" rel="noopener noreferrer">A community driven training program that teaches the basics of CFML.</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Cg" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Cg</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Cg_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Cg (programming language)" - Wikipedia</a></li>
-						<li><a href="https://arxiv.org/abs/cs/0302013" target="_blank" rel="noopener noreferrer">Cg in Two Pages</a></li>
-						<li><a href="https://developer.nvidia.com/cg-toolkit" target="_blank" rel="noopener noreferrer">Nvidia-hosted: Cg home page</a></li>
-					</ul>			
-			</div>
-			
-			<div id="Ch" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>Ch</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Ch_%28computer_programming%29" target="_blank" rel="noopener noreferrer">"Ch (programming language)" - Wikipedia</a></li>
-						<li><a href="http://www.softintegration.com/" target="_blank" rel="noopener noreferrer">Ch - Official website</a></li>
-						<li><a href="http://www.mobilec.org/" target="_blank" rel="noopener noreferrer">Mobile-C: a Multi-Agent Platform for Mobile C/C++ Agents Home Page</a></li>
-						<li><a href="http://c-stem.ucdavis.edu/studio/" target="_blank" rel="noopener noreferrer">C-STEM Studio</a></li>
-					</ul>			
-			</div>
-			
-			<div id="CHILL" style="padding-top:.1%;padding-bottom:.1%;">
-				<h3><strong>CHILL</strong></h3>			
-					<p> </p>
-					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/CHILL" target="_blank" rel="noopener noreferrer">"CHILL" - Wikipedia</a></li>
-						<li><a href="http://www.itu.int/rec/T-REC-Z.200/en" target="_blank" rel="noopener noreferrer">ITU Z.200 standard page</a>, has freely downloadable CHILL spec</li>
-						<li><a href="http://psc.informatik.uni-jena.de/languages/chill/chill.htm" target="_blank" rel="noopener noreferrer">The CHILL Homepage</a></li>
-						<li><a href="https://gcc.gnu.org/onlinedocs/gcc-2.95.3/chill.html" target="_blank" rel="noopener noreferrer">CDocumentation for GNU CHILL</a></li>
-					</ul>			
-			</div>
-			
-			
-		</ol>
-
+		<div id="bc" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>bc</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bc_(programming_language)" target="_blank" rel="noopener noreferrer">"bc (programming language)" - Wikipedia</a></li>
+					<li><a href="http://sciencesoft.at/bc/?lang=en" target="_blank" rel="noopener noreferrer">Online version of GNU bc</a></li>
+					<li><a href="http://phodd.net/gnu-bc/" target="_blank" rel="noopener noreferrer">Collection of useful GNU bc functions</a></li>
+				</ul>			
+		</div>
+		
+		<div id="BCPL" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>BCPL</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/BCPL" target="_blank" rel="noopener noreferrer">"BCPL" - Wikipedia</a></li>
+					<li><a href="http://www.cl.cam.ac.uk/~mr10/BCPL.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL distribution</a></li>
+					<li><a href="https://www.bell-labs.com/usr/dmr/www/bcpl.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL Reference Manual by Dennis M. Ritchie including his commentary about BCPL's influence on C</a></li>
+					<li><a href="http://www.catb.org/~esr/jargon/html/B/BCPL.html" target="_blank" rel="noopener noreferrer">BCPL entry in the Jargon File</a></li>
+					<li><a href="http://cpcwiki.eu/imgs/3/3a/ArnorBCPL.pdf" target="_blank" rel="noopener noreferrer">ArnorBCPL manual</a></li>
+				</ul>			
+		</div>
+		
+		<div id="BETA" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>BETA</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/BETA_(programming_language)" target="_blank" rel="noopener noreferrer">"BETA (programming language)" - Wikipedia</a></li>
+					<li><a href="http://cs.au.dk/~beta/" target="_blank" rel="noopener noreferrer">BETA - Official website</a></li>
+					<li><a href="http://www.daimi.au.dk/~eernst/gbeta/" target="_blank" rel="noopener noreferrer">gbeta - Generalized BETA</a></li>
+				</ul>			
+		</div>
+		
+		<div id="BlitzMax" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>BlitzMax</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Blitz_BASIC" target="_blank" rel="noopener noreferrer">"Blitz BASIC / BlitzMax" - Wikipedia</a></li>
+					<li><a href="https://github.com/blitz-research/" target="_blank" rel="noopener noreferrer">/blitz-research BlitzPlus, Blitz3D, BlitzMax source code repository on github.com</a></li>
+					<li><a href="https://github.com/blitz-research/blitzmax" target="_blank" rel="noopener noreferrer">blitzmax on github.com</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Boo" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Boo</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Boo_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Boo (programming language)" - Wikipedia</a></li>
+					<li><a href="http://boo-lang.org/" target="_blank" rel="noopener noreferrer">Boo - Official website</a></li>
+					<li><a href="https://github.com/boo-lang/" target="_blank" rel="noopener noreferrer">The sources of Boo hosted on GitHub</a></li>
+					<li><a href="https://github.com/boo-lang/boo/wiki" target="_blank" rel="noopener noreferrer">The documentation of Boo hosted on GitHub</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Bourne_shell" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Bourne shell</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bourne_shell" target="_blank" rel="noopener noreferrer">"Bourne shell" - Wikipedia</a></li>
+					<li><a href="https://www.in-ulm.de/~mascheck/bourne/" target="_blank" rel="noopener noreferrer">The individual members of "The Traditional Bourne Shell Family"</a></li>
+					<li><a href="https://www.in-ulm.de/~mascheck/bourne/common.html" target="_blank" rel="noopener noreferrer">Characteristical common properties of the traditional Bourne shells</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Bro" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Bro</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"Bro (software)" - Wikipedia</a></li>
+					<li><a href="https://www.bro.org/" target="_blank" rel="noopener noreferrer">Bro IDS Home page</a></li>
+					<li><a href="http://www.icir.org/vern/papers/bro-CN99.html" target="_blank" rel="noopener noreferrer">The original paper describing Bro</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C (programming language)" - Wikipedia</a></li>
+					<li><a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noopener noreferrer">ISO C Working Group Official website</a></li>
+					<li><a href="http://www.c-faq.com/" target="_blank" rel="noopener noreferrer">comp.lang.c Frequently Asked Questions</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C_shell" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C shell</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C shell" - Wikipedia</a></li>
+					<li><a href="https://docs.freebsd.org/44doc/usd/04.csh/paper.html" target="_blank" rel="noopener noreferrer"><i>An Introduction to the C shell</i> by William Joy.</a></li>
+					<li><a href="https://docstore.mik.ua/orelly/linux/lnut/ch08_01.htm" target="_blank" rel="noopener noreferrer">Linux in a Nutshell: Chapter 8. csh and tcsh</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C_sharp" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C#</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29" target="_blank" rel="noopener noreferrer">"C Sharp (programming language)" - Wikipedia</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification" target="_blank" rel="noopener noreferrer">C# Language Specification (from MSDN)</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index" target="_blank" rel="noopener noreferrer">C# Programming Guide (MSDN)</a></li>
+					<li><a href="http://www.kunal-chowdhury.com/2016/01/csharp-basics.html#wEt7R6qV55ySmeZp.97" target="_blank" rel="noopener noreferrer">List of Key features introduced in #CSharp (1.0 to 6.0) - an Infographic</a></li>
+					<li><a href="https://www.visualstudio.com/" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C_plus_plus" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C++</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noopener noreferrer">"C++" - Wikipedia</a></li>
+					<li><a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">Standard C++ Foundation</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C_plus_plus_CLI" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C++/CLI</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/C++/CLI" target="_blank" rel="noopener noreferrer">"C++/CLI" - Wikipedia</a></li>
+					<li><a href="http://www.ecma-international.org/publications/standards/Ecma-372.htm" target="_blank" rel="noopener noreferrer">ECMA 372: C++/CLI Language Specification</a></li>
+					<li><a href="https://blogs.msdn.microsoft.com/hsutter/2003/11/23/ccli-keywords-under-the-hood/" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI keywords: Under the hood</a></li>
+					<li><a href="http://www.gotw.ca/publications/C++CLIRationale.pdf" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI Rationale</a></li>
+					<li><a href="https://msdn.microsoft.com/en-us/library/xey702bw.aspx" target="_blank" rel="noopener noreferrer">MSDN documentation for C++/CLI</a></li>
+				</ul>			
+		</div>
+		
+		<div id="C_Omega" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>C-Omega</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/C%CF%89" target="_blank" rel="noopener noreferrer">"Cω" - Wikipedia</a></li>
+					<li><a href="https://www.microsoft.com/en-us/research/project/comega/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fcambridge%2Fprojects%2Fcomega%2F" target="_blank" rel="noopener noreferrer">Comega - Microsoft Research</a></li>
+					<li><a href="https://msdn.microsoft.com/en-us/library/ms974195.aspx" target="_blank" rel="noopener noreferrer">"An Overview of Cω" - MSDN</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Caml" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Caml</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Caml" target="_blank" rel="noopener noreferrer">"Caml" - Wikipedia</a></li>
+					<li><a href="http://caml.inria.fr/" target="_blank" rel="noopener noreferrer">Caml - Official website</a></li>
+					<li><a href="https://caml.inria.fr/about/history.en.html" target="_blank" rel="noopener noreferrer">A History of Caml - Official website</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Ceylon" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Ceylon</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Ceylon_(programming_language)" target="_blank" rel="noopener noreferrer">"Ceylon" - Wikipedia</a></li>
+					<li><a href="https://ceylon-lang.org/" target="_blank" rel="noopener noreferrer">Ceylon - Official website</a></li>
+					<li><a href="https://ceylon-lang.org/documentation/1.2/spec/html_single/#compilationunitstructure" target="_blank" rel="noopener noreferrer">King, Gavin. "The Ceylon Language: &sect;4.1 Compilation unit structure"</a></li>
+				</ul>			
+		</div>
+		
+		<div id="CFML" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>CFML</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/ColdFusion_Markup_Language" target="_blank" rel="noopener noreferrer">"ColdFusion Markup Language" - Wikipedia</a></li>
+					<li><a href="https://cfdocs.org/" target="_blank" rel="noopener noreferrer">CFML documentation maintained by the community.</a></li>
+					<li><a href="https://github.com/mhenke/CFML-in-100-minutes/blob/develop/cfml100mins.markdown" target="_blank" rel="noopener noreferrer">CFML in 100 minutes — introduction to the basics of the CFML language.</a></li>
+					<li><a href="http://learncfinaweek.com/" target="_blank" rel="noopener noreferrer">A community driven training program that teaches the basics of CFML.</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Cg" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Cg</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Cg_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Cg (programming language)" - Wikipedia</a></li>
+					<li><a href="https://arxiv.org/abs/cs/0302013" target="_blank" rel="noopener noreferrer">Cg in Two Pages</a></li>
+					<li><a href="https://developer.nvidia.com/cg-toolkit" target="_blank" rel="noopener noreferrer">Nvidia-hosted: Cg home page</a></li>
+				</ul>			
+		</div>
+		
+		<div id="Ch" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>Ch</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/Ch_%28computer_programming%29" target="_blank" rel="noopener noreferrer">"Ch (programming language)" - Wikipedia</a></li>
+					<li><a href="http://www.softintegration.com/" target="_blank" rel="noopener noreferrer">Ch - Official website</a></li>
+					<li><a href="http://www.mobilec.org/" target="_blank" rel="noopener noreferrer">Mobile-C: a Multi-Agent Platform for Mobile C/C++ Agents Home Page</a></li>
+					<li><a href="http://c-stem.ucdavis.edu/studio/" target="_blank" rel="noopener noreferrer">C-STEM Studio</a></li>
+				</ul>			
+		</div>
+		
+		<div id="CHILL" style="padding-top: 0.1%; padding-bottom: 0.1%;">
+			<h3><strong>CHILL</strong></h3>			
+				<ul style="list-style:none;">
+					<li><a href="https://en.wikipedia.org/wiki/CHILL" target="_blank" rel="noopener noreferrer">"CHILL" - Wikipedia</a></li>
+					<li><a href="http://www.itu.int/rec/T-REC-Z.200/en" target="_blank" rel="noopener noreferrer">ITU Z.200 standard page</a>, has freely downloadable CHILL spec</li>
+					<li><a href="http://psc.informatik.uni-jena.de/languages/chill/chill.htm" target="_blank" rel="noopener noreferrer">The CHILL Homepage</a></li>
+					<li><a href="https://gcc.gnu.org/onlinedocs/gcc-2.95.3/chill.html" target="_blank" rel="noopener noreferrer">CDocumentation for GNU CHILL</a></li>
+				</ul>			
+		</div>		
 
 	</div>
 
@@ -547,6 +498,5 @@ HTML / CSS SOURCES
 	
 	The HTML / CSS code used to write this article can be found on my Github page here: 
 	<a href ="https://github.com/codeaftercoffee/Wordpress/blob/affd539da134e476f9948f8ccaefa7f92f6302cf/An_Ample_List_of_Programming_Languages" target="_blank" rel="noopener noreferrer">Github code for this article</a>.
-	
 	
 </div>
