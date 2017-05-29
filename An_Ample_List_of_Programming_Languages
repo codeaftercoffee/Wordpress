@@ -1,0 +1,203 @@
+<!--
+HTML / CSS SOURCES
+	Wrapping text around a div: https://stackoverflow.com/questions/13296762/how-to-wrap-text-around-a-div
+	Table of COntents: https://stackoverflow.com/questions/10932449/table-of-contents-html-link
+	Layout with sidebar: https://stackoverflow.com/questions/29960458/making-a-simple-layout-with-a-sidebar-in-html-css
+-->
+
+<div id="everything" style="width: auto; height: auto; ">
+	<!-- Table of Contents in a Left aside section -->
+	<div class="table_of_contents_column" style="height: auto; width: 25%; margin: 5%; float: left; ">
+		<a href="#4D"> 4D</a><br>
+		<a href="#ABAP"> ABAP</a><br>
+		<a href="#ABC"> ABC</a><br>
+		<a href="#ActionScript"> ActionScript</a><br>
+		<a href="#Ada"> Ada</a><br>
+		<a href="#Agilent_VEE"> Agilent VEE</a><br>
+		<a href="#Algol"> Algol</a><br>
+		<a href="#Alice"> Alice</a><br>
+		<a href="#Angelscript"> Angelscript</a><br>
+		<a href="#Apex"> Apex</a><br>
+		<a href="#APL"> APL</a><br>
+		<a href="#AppleScript"> AppleScript</a><br>
+		<a href="#Arc"> Arc</a><br>
+		<a href="#Arduino"> Arduino</a><br>
+	</div>
+
+	<div id="intro_text" style="margin: 0.25%; text-align: justify;">
+		<p>After some research, I have started to compile a cumulative list of programming languages that includes everything from old to new, and current to outdated languages. </p>
+		<br><br>
+		<p>This list is a work in progress, it is by no means an "official list" or a complete list. Please contact me if you would like something removed.  Leave a comment below if you find any broken links, incorrect information, or would like to add to the list. </p>
+	</div>
+		
+	<div class="languagesfulllist" style="padding:.25%; text-align: justify; margin: 0.5%;">
+		<ol>
+			<div id="4D" style="padding-top:.1%; padding-bottom:.1%;">
+				<h3><strong>4th Dimension / 4D</strong></h3>
+					<p>4th Dimension, or 4D, is a relational database management system and IDE. Since its release in 1987, the product line has expanded to include an SQL back-end, integrated compiler, integration of PHP, and a few productivity plug-ins and interfaces. 4D can also be used as a web server, to run compiled database applications.</p>
+					<p>4th Dimension was developed by Laurent Ribardière in 1984. It was published in 1987 with the French businesswoman Marylene Delbourg-Delphish. It was known as Silver Surfer during the early stages of development. Apple Inc. initially negotiated to release the software, but later declined. Even though the software was independently published, Apple actively supported and used 4D throughout the organization. Today, 4D is published by the French company 4D SAS.</p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/4th_Dimension_%28software%29" target="_blank" rel="noopener noreferrer">"4th Dimension (software)" - Wikipedia</a></li>
+						<li><a href="http://www.4d.com/" target="_blank" rel="noopener noreferrer">4D website</a></li>
+					</ul>					
+			</div>
+			
+			<div id="ABAP" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>ABAP</strong></h3>
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" rel="noopener noreferrer">"ABAP" - Wikipedia</a></li>
+						<li><a href="https://help.sap.com/doc/abapdocu_740_index_htm/7.40/en-US/index.htm" target="_blank" rel="noopener noreferrer">ABAP - Keyword Documentation</a></li>
+						<li><a href="https://www.sap.com/community/topic/abap.html" target="_blank" rel="noopener noreferrer">ABAP Development Community</a></li>
+					</ul>	
+			</div>
+
+			<div id="ABC" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>ABC</strong></h3>
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/ABC_%28programming_language%29" target="_blank" rel="noopener noreferrer">"ABC (programming language)" - Wikipedia</a></li>
+						<li><a href="http://homepages.cwi.nl/~steven/abc/programmers/handbook.html" target="_blank" rel="noopener noreferrer">The ABC Programmers' Handbook</a></li>
+						<li><a href="http://homepages.cwi.nl/~steven/abc/" target="_blank" rel="noopener noreferrer">The ABC Programming Language: a short introduction</a></li>
+					</ul>
+			</div>
+			
+			<div id="ActionScript" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>ActionScript</strong></h3>
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/ActionScript" target="_blank" rel="noopener noreferrer">"ActionScript" - Wikipedia</a></li>
+						<li><a href="http://www.adobe.com/devnet/actionscript.html" target="_blank" rel="noopener noreferrer">ActionScript Technology Center - Adobe Developer Connection</a></li>
+					</ul>
+			</div>
+			
+			<div id="Ada" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Ada</strong></h3>
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Ada_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Ada (programming language)" - Wikipedia</a></li>
+						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Ada/" target="_blank" rel="noopener noreferrer">Ada - dmoztools</a></li>
+						<li><a href="http://www.sigada.org/" target="_blank" rel="noopener noreferrer">The Special Interest Group on Ada (ACM’s SIGAda)</a></li>
+					</ul>
+			</div>
+			
+			<div id="Agilent_VEE" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Agilent VEE</strong></h3>
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Keysight_VEE" target="_blank" rel="noopener noreferrer">"Keysight VEE" - Wikipedia</a></li>
+						<li><a href="http://www.keysight.com/find/vee" target="_blank" rel="noopener noreferrer">Keysight Technologies, Keysight VEE</a></li>
+					</ul>
+			</div>
+			
+			<div id="Algol" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Algol</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/ALGOL" target="_blank" rel="noopener noreferrer">"ALGOL" - Wikipedia</a></li>
+						<li><a href="http://www.softwarepreservation.org/projects/ALGOL/" target="_blank" rel="noopener noreferrer">History of ALGOL</a></li>
+						<li><a href="https://www.vintagebigblue.org/Compilerator/ALGOLF/mvsAlgolFCompile.php" target="_blank" rel="noopener noreferrer">Web enabled ALGOL-F compiler for small experiments</a></li>
+					</ul>
+			</div>
+				
+			<div id="Alice" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Alice</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Alice_%28software%29" target="_blank" rel="noopener noreferrer">"Alice (software)" - Wikipedia</a></li>
+						<li><a href="http://www.alice.org/" target="_blank" rel="noopener noreferrer">Alice - Official Website</a></li>
+					</ul>
+			</div>
+			
+			<div id="Angelscript" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Angelscript</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="http://www.angelcode.com/angelscript/" target="_blank" rel="noopener noreferrer">"Angelscript" - AngelCode</a></li>
+						<li><a href="https://www.gamedev.net/forum/49-angelcode/" target="_blank" rel="noopener noreferrer">"AngelCode forums" - gamedev.net</a></li>
+						<li><a href="http://angelscript.pbworks.com/w/page/13041783/FrontPage" target="_blank" rel="noopener noreferrer">Angelscript - Community Wiki</a></li>
+						<li><a href="http://www.angelcode.com/angelscript/resources.html" target="_blank" rel="noopener noreferrer">Resources and support for Angelscript</a></li>
+					</ul>
+					
+					
+			</div>
+			
+			<div id="Apex" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Apex</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://developer.salesforce.com/page/Apex" target="_blank" rel="noopener noreferrer">Apex - Salesforce Developers</a></li>
+						<li><a href="https://developer.salesforce.com/page/An_Introduction_to_Apex" target="_blank" rel="noopener noreferrer">An Intro to Force.com Apex Code - Salesforce Developers</a></li>
+						<li><a href="https://developer.salesforce.com/page/Apex_Code_Best_Practices" target="_blank" rel="noopener noreferrer">Apex Code Best Pracetices - Salesforce Developers</a></li>
+					</ul>
+			</div>
+			
+			<div id="APL" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>APL</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/APL_%28programming_language%29" target="_blank" rel="noopener noreferrer">"APL (programming language)" - Wikipedia</a></li>
+						<li><a href="http://www.sigapl.org/" target="_blank" rel="noopener noreferrer">SIGPLAN Chapter on Array-Programming Languages</a></li>
+						<li><a href="http://aplwiki.com/" target="_blank" rel="noopener noreferrer">APL Wiki Frontpage</a></li>
+						<li><a href="https://dmoztools.net/Computers/Programming/Languages/APL/" target="_blank" rel="noopener noreferrer">APL - dmoztools</a></li>
+					</ul>
+			</div>
+			
+			<div id="AppleScript" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>AppleScript</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/AppleScript" target="_blank" rel="noopener noreferrer">"AppleScript" - Wikipedia</a></li>
+						<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Overview - Apple Inc.</a></li>
+						<li><a href="https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html" target="_blank" rel="noopener noreferrer">Intro to AppleScript Language Guide - Apple Inc.</a></li>
+						<li><a href="https://dmoztools.net/Computers/Systems/Apple/Macintosh/Development/Languages/Scripting/AppleScript/" target="_blank" rel="noopener noreferrer">AppleScript - dmoztools</a></li>
+					</ul>
+			</div>
+			
+			<div id="Arc" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Arc</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Arc" target="_blank" rel="noopener noreferrer">"Arc (programming language)" - Wikipedia</a></li>
+						<li><a href="http://arclanguage.org/" target="_blank" rel="noopener noreferrer">Arc - Official Website</a></li>
+						<li><a href="https://arclanguage.github.io/" target="_blank" rel="noopener noreferrer">Arc at Github</a></li>
+						<li><a href="http://tryarc.org/arc-tutorial/" target="_blank" rel="noopener noreferrer">Arc Tutorial</a></li>
+					</ul>
+					
+			<div id="Arduino" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Arduino</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino - Wikipedia</a></li>
+						<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official Website</a></li>
+						<li><a href="http://imgur.com/yGRLPvL" target="_blank" rel="noopener noreferrer">Evolution of Arduino</a></li>
+						<li><a href="http://robodino.org/resources/arduino" target="_blank" rel="noopener noreferrer">Arduino Cheat Sheet</a></li>
+					</ul>
+			</div>
+			</div>
+			
+			
+		</ol>
+
+
+	</div>
+
+	<hr />
+
+	List of sources:<!--more-->
+
+	<ul style="list-style:none;">
+		<li><a href="https://dzone.com/articles/big-list-256-programming" target="_blank" rel="noopener noreferrer">"The Big List of 256 Programming Languages" - DZone </a></li>
+		<li><a href="http://foldoc.org/">Free On-Line Dictionary Of Computing</a></li>
+		<li><a href="https://dmoztools.net/Computers/Programming/Languages/">"Computer Programming Languages" - dmoztools.net </a></li>
+		<li><a href="http://www.webopedia.com/Programming/Programming_Languages">"Programming Languages" - Webopedia </a></li>
+		<li><a href="https://en.wikipedia.org/wiki/Programming_language">"Programming Language" - Wikipedia </a></li>
+		<li><a href="http://lambda-the-ultimate.org/">"The Programming Languages Weblog" - Lambda the Ultimate </a></li>
+		<li><a href="http://www.acooke.org/comp-lang.html">"Introduction to Computer Languages (2)" - Andrew Cooke </a></li>
+		
+	</ul>
+	
+	The HTML / CSS code used to write this article can be found on my Github page here: 
+	
+	
+</div>
