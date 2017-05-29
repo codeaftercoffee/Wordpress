@@ -180,7 +180,7 @@ HTML / CSS SOURCES
 				<h3><strong>Arduino</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino" - Wikipedia</a></li>
 						<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official Website</a></li>
 						<li><a href="http://imgur.com/yGRLPvL" target="_blank" rel="noopener noreferrer">Evolution of Arduino</a></li>
 						<li><a href="http://robodino.org/resources/arduino" target="_blank" rel="noopener noreferrer">Arduino Cheat Sheet</a></li>
@@ -191,7 +191,7 @@ HTML / CSS SOURCES
 				<h3><strong>ASP</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Active_Server_Pages" target="_blank" rel="noopener noreferrer">Active Server Pages (ASP) - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Active_Server_Pages" target="_blank" rel="noopener noreferrer">"Active Server Pages (ASP)" - Wikipedia</a></li>
 						<li><a href="https://msdn.microsoft.com/en-us/library/aa286483.aspx" target="_blank" rel="noopener noreferrer">ASP on MSDN</a></li>
 						<li><a href="https://support.microsoft.com/en-us/help/2669020/active-server-pages-asp-support-in-windows" target="_blank" rel="noopener noreferrer">Microsoft Support for ASP on Windows</a></li>
 					</ul>			
@@ -201,7 +201,7 @@ HTML / CSS SOURCES
 				<h3><strong>AspectJ</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AspectJ" target="_blank" rel="noopener noreferrer">AspectJ - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/AspectJ" target="_blank" rel="noopener noreferrer">"AspectJ" - Wikipedia</a></li>
 						<li><a href="http://www.eclipse.org/ajdt/" target="_blank" rel="noopener noreferrer">AspectJ Home Page</a></li>
 						<li><a href="http://www.sable.mcgill.ca/abc/" target="_blank" rel="noopener noreferrer">The AspectBench Compiler for AspectJ</a></li>
 					</ul>			
@@ -211,7 +211,7 @@ HTML / CSS SOURCES
 				<h3><strong>Assembly</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noopener noreferrer">Assembly Language - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noopener noreferrer">"Assembly Language" - Wikipedia</a></li>
 						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Assembly/" target="_blank" rel="noopener noreferrer">Assembly - dmoztools</a></li>
 					</ul>			
 			</div>
@@ -220,7 +220,7 @@ HTML / CSS SOURCES
 				<h3><strong>ATLAS</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ATLAS_Transformation_Language" target="_blank" rel="noopener noreferrer">ATLAS Transformation Language - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/ATLAS_Transformation_Language" target="_blank" rel="noopener noreferrer">"ATLAS Transformation Language" - Wikipedia</a></li>
 						<li><a href="http://www.eclipse.org/atl/" target="_blank" rel="noopener noreferrer">ATL - Official Website</a></li>
 					</ul>			
 			</div>
@@ -229,7 +229,7 @@ HTML / CSS SOURCES
 				<h3><strong>Augeas</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Augeas_%28software%29" target="_blank" rel="noopener noreferrer">Augeas (software) - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Augeas_%28software%29" target="_blank" rel="noopener noreferrer">"Augeas (software)" - Wikipedia</a></li>
 						<li><a href="http://augeas.net/" target="_blank" rel="noopener noreferrer">Augeas - Official Website</a></li>
 					</ul>			
 			</div>
@@ -238,7 +238,7 @@ HTML / CSS SOURCES
 				<h3><strong>AutoHotkey</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener noreferrer">AutoHotkey - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener noreferrer">"AutoHotkey" - Wikipedia</a></li>
 						<li><a href="https://autohotkey.com/" target="_blank" rel="noopener noreferrer">AutoHotkey - Official Website</a></li>
 						<li><a href="https://autohotkey.com/foundation/" target="_blank" rel="noopener noreferrer">AutoHotkey Foundation LLC</a></li>
 					</ul>			
@@ -248,7 +248,7 @@ HTML / CSS SOURCES
 				<h3><strong>AutoIt</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoIt" target="_blank" rel="noopener noreferrer">AutoIt - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/AutoIt" target="_blank" rel="noopener noreferrer">"AutoIt" - Wikipedia</a></li>
 						<li><a href="https://www.autoitscript.com/site/" target="_blank" rel="noopener noreferrer">AutoIt - Official Website</a></li>
 					</ul>			
 			</div>
@@ -257,7 +257,7 @@ HTML / CSS SOURCES
 				<h3><strong>AutoLISP</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AutoLISP" target="_blank" rel="noopener noreferrer">AutoLISP - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/AutoLISP" target="_blank" rel="noopener noreferrer">"AutoLISP" - Wikipedia</a></li>
 						<li><a href="http://www.faqs.org/faqs/CAD/autolisp-faq/" target="_blank" rel="noopener noreferrer">AutoLISP - FAQ</a></li>
 					</ul>			
 			</div>
@@ -266,7 +266,7 @@ HTML / CSS SOURCES
 				<h3><strong>Automator</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Automator" target="_blank" rel="noopener noreferrer">Automator - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Automator" target="_blank" rel="noopener noreferrer">"Automator" - Wikipedia</a></li>
 					</ul>			
 			</div>
 			
@@ -274,7 +274,7 @@ HTML / CSS SOURCES
 				<h3><strong>Avenue</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/ArcView_3.x" target="_blank" rel="noopener noreferrer">ArcView_3.x - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/ArcView_3.x" target="_blank" rel="noopener noreferrer">"ArcView_3.x" - Wikipedia</a></li>
 					</ul>			
 			</div>
 			
@@ -282,7 +282,7 @@ HTML / CSS SOURCES
 				<h3><strong>Awk</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/AWK" target="_blank" rel="noopener noreferrer">AWK - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/AWK" target="_blank" rel="noopener noreferrer">"AWK" - Wikipedia</a></li>
 						<li><a href="http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/" target="_blank" rel="noopener noreferrer">The Amazing Awk Assembler by Henry Spencer</a></li>
 						<li><a href="https://dmoztools.net/Computers/Programming/Languages/Awk/" target="_blank" rel="noopener noreferrer">AWK - dmoztools</a></li>
 						<li><a href="https://github.com/danfuzz/one-true-awk" target="_blank" rel="noopener noreferrer">Git repository of the direct lineage of the original AWK source code</a></li>
@@ -293,7 +293,7 @@ HTML / CSS SOURCES
 				<h3><strong>Bash</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" rel="noopener noreferrer">Bash (Unix shell) - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" rel="noopener noreferrer">"Bash (Unix shell)" - Wikipedia</a></li>
 						<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">Bash - Official Website</a></li>
 					</ul>			
 			</div>
@@ -302,7 +302,7 @@ HTML / CSS SOURCES
 				<h3><strong>(Visual) Basic</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noopener noreferrer">Visual Basic - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noopener noreferrer">"Visual Basic" - Wikipedia</a></li>
 						<li><a href="https://msdn.microsoft.com/en-gb/dd408373.aspx" target="_blank" rel="noopener noreferrer">Secure your Visual Basic 6.0 investment with Microsoft .NET</a></li>
 					</ul>			
 			</div>
@@ -311,7 +311,7 @@ HTML / CSS SOURCES
 				<h3><strong>bc</strong></h3>			
 					<p> </p>
 					<ul style="list-style:none;">
-						<li><a href="https://en.wikipedia.org/wiki/Bc_(programming_language)" target="_blank" rel="noopener noreferrer">bc (programming language) - Wikipedia</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Bc_(programming_language)" target="_blank" rel="noopener noreferrer">"bc (programming language)" - Wikipedia</a></li>
 						<li><a href="http://sciencesoft.at/bc/?lang=en" target="_blank" rel="noopener noreferrer">Online version of GNU bc</a></li>
 						<li><a href="http://phodd.net/gnu-bc/" target="_blank" rel="noopener noreferrer">Collection of useful GNU bc functions</a></li>
 					</ul>			
