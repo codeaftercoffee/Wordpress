@@ -33,6 +33,24 @@ HTML / CSS SOURCES
 		<a href="#Bash"> Bash</a><br>
 		<a href="#Visual_Basic"> (Visual) Basic</a><br>
 		<a href="#bc"> bc</a><br>
+		<a href="#BCPL"> BCPL</a><br>
+		<a href="#BETA"> BETA</a><br>
+		<a href="#BlitzMax"> BlitzMax</a><br>
+		<a href="#Boo"> Boo</a><br>
+		<a href="#Bourne_shell"> Bourne Shell</a><br>
+		<a href="#Bro"> Bro</a><br>
+		<a href="#C"> C</a><br>
+		<a href="#C_shell"> C Shell</a><br>
+		<a href="#C_sharp"> C#</a><br>
+		<a href="#C_plus_plus"> C++</a><br>
+		<a href="#C_plus_plus_CLI"> C++/CLI</a><br>
+		<a href="#C_Omega"> C-Omega</a><br>
+		<a href="#Caml"> Caml</a><br>
+		<a href="#Ceylon"> Ceylon</a><br>
+		<a href="#CFML"> CFML</a><br>
+		<a href="#Cg"> Cg</a><br>
+		<a href="#Ch"> Ch</a><br>
+		<a href="#CHILL"> CHILL</a><br>
 	</div>
 
 	<div id="intro_text" style="margin: 0.25%; text-align: justify;">
@@ -116,7 +134,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/Alice_%28software%29" target="_blank" rel="noopener noreferrer">"Alice (software)" - Wikipedia</a></li>
-						<li><a href="http://www.alice.org/" target="_blank" rel="noopener noreferrer">Alice - Official Website</a></li>
+						<li><a href="http://www.alice.org/" target="_blank" rel="noopener noreferrer">Alice - Official website</a></li>
 					</ul>
 			</div>
 			
@@ -170,7 +188,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/Arc" target="_blank" rel="noopener noreferrer">"Arc (programming language)" - Wikipedia</a></li>
-						<li><a href="http://arclanguage.org/" target="_blank" rel="noopener noreferrer">Arc - Official Website</a></li>
+						<li><a href="http://arclanguage.org/" target="_blank" rel="noopener noreferrer">Arc - Official website</a></li>
 						<li><a href="https://arclanguage.github.io/" target="_blank" rel="noopener noreferrer">Arc at Github</a></li>
 						<li><a href="http://tryarc.org/arc-tutorial/" target="_blank" rel="noopener noreferrer">Arc Tutorial</a></li>
 					</ul>
@@ -181,7 +199,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer">"Arduino" - Wikipedia</a></li>
-						<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official Website</a></li>
+						<li><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">Arduino - Official website</a></li>
 						<li><a href="http://imgur.com/yGRLPvL" target="_blank" rel="noopener noreferrer">Evolution of Arduino</a></li>
 						<li><a href="http://robodino.org/resources/arduino" target="_blank" rel="noopener noreferrer">Arduino Cheat Sheet</a></li>
 					</ul>			
@@ -221,7 +239,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/ATLAS_Transformation_Language" target="_blank" rel="noopener noreferrer">"ATLAS Transformation Language" - Wikipedia</a></li>
-						<li><a href="http://www.eclipse.org/atl/" target="_blank" rel="noopener noreferrer">ATL - Official Website</a></li>
+						<li><a href="http://www.eclipse.org/atl/" target="_blank" rel="noopener noreferrer">ATL - Official website</a></li>
 					</ul>			
 			</div>
 			
@@ -230,7 +248,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/Augeas_%28software%29" target="_blank" rel="noopener noreferrer">"Augeas (software)" - Wikipedia</a></li>
-						<li><a href="http://augeas.net/" target="_blank" rel="noopener noreferrer">Augeas - Official Website</a></li>
+						<li><a href="http://augeas.net/" target="_blank" rel="noopener noreferrer">Augeas - Official website</a></li>
 					</ul>			
 			</div>
 			
@@ -239,7 +257,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener noreferrer">"AutoHotkey" - Wikipedia</a></li>
-						<li><a href="https://autohotkey.com/" target="_blank" rel="noopener noreferrer">AutoHotkey - Official Website</a></li>
+						<li><a href="https://autohotkey.com/" target="_blank" rel="noopener noreferrer">AutoHotkey - Official website</a></li>
 						<li><a href="https://autohotkey.com/foundation/" target="_blank" rel="noopener noreferrer">AutoHotkey Foundation LLC</a></li>
 					</ul>			
 			</div>
@@ -249,7 +267,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/AutoIt" target="_blank" rel="noopener noreferrer">"AutoIt" - Wikipedia</a></li>
-						<li><a href="https://www.autoitscript.com/site/" target="_blank" rel="noopener noreferrer">AutoIt - Official Website</a></li>
+						<li><a href="https://www.autoitscript.com/site/" target="_blank" rel="noopener noreferrer">AutoIt - Official website</a></li>
 					</ul>			
 			</div>
 			
@@ -294,7 +312,7 @@ HTML / CSS SOURCES
 					<p> </p>
 					<ul style="list-style:none;">
 						<li><a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" rel="noopener noreferrer">"Bash (Unix shell)" - Wikipedia</a></li>
-						<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">Bash - Official Website</a></li>
+						<li><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">Bash - Official website</a></li>
 					</ul>			
 			</div>
 			
@@ -316,6 +334,196 @@ HTML / CSS SOURCES
 						<li><a href="http://phodd.net/gnu-bc/" target="_blank" rel="noopener noreferrer">Collection of useful GNU bc functions</a></li>
 					</ul>			
 			</div>
+			
+			<div id="BCPL" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>BCPL</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/BCPL" target="_blank" rel="noopener noreferrer">"BCPL" - Wikipedia</a></li>
+						<li><a href="http://www.cl.cam.ac.uk/~mr10/BCPL.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL distribution</a></li>
+						<li><a href="https://www.bell-labs.com/usr/dmr/www/bcpl.html" target="_blank" rel="noopener noreferrer">Martin Richards' BCPL Reference Manual by Dennis M. Ritchie including his commentary about BCPL's influence on C</a></li>
+						<li><a href="http://www.catb.org/~esr/jargon/html/B/BCPL.html" target="_blank" rel="noopener noreferrer">BCPL entry in the Jargon File</a></li>
+						<li><a href="http://cpcwiki.eu/imgs/3/3a/ArnorBCPL.pdf" target="_blank" rel="noopener noreferrer">ArnorBCPL manual</a></li>
+					</ul>			
+			</div>
+			
+			<div id="BETA" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>BETA</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/BETA_(programming_language)" target="_blank" rel="noopener noreferrer">"BETA (programming language)" - Wikipedia</a></li>
+						<li><a href="http://cs.au.dk/~beta/" target="_blank" rel="noopener noreferrer">BETA - Official website</a></li>
+						<li><a href="http://www.daimi.au.dk/~eernst/gbeta/" target="_blank" rel="noopener noreferrer">gbeta - Generalized BETA</a></li>
+					</ul>			
+			</div>
+			
+			<div id="BlitzMax" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>BlitzMax</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Blitz_BASIC" target="_blank" rel="noopener noreferrer">"Blitz BASIC / BlitzMax" - Wikipedia</a></li>
+						<li><a href="https://github.com/blitz-research/" target="_blank" rel="noopener noreferrer">/blitz-research BlitzPlus, Blitz3D, BlitzMax source code repository on github.com</a></li>
+						<li><a href="https://github.com/blitz-research/blitzmax" target="_blank" rel="noopener noreferrer">blitzmax on github.com</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Boo" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Boo</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Boo_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Boo (programming language)" - Wikipedia</a></li>
+						<li><a href="http://boo-lang.org/" target="_blank" rel="noopener noreferrer">Boo - Official website</a></li>
+						<li><a href="https://github.com/boo-lang/" target="_blank" rel="noopener noreferrer">The sources of Boo hosted on GitHub</a></li>
+						<li><a href="https://github.com/boo-lang/boo/wiki" target="_blank" rel="noopener noreferrer">The documentation of Boo hosted on GitHub</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Bourne_shell" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Bourne shell</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Bourne_shell" target="_blank" rel="noopener noreferrer">"Bourne shell" - Wikipedia</a></li>
+						<li><a href="https://www.in-ulm.de/~mascheck/bourne/" target="_blank" rel="noopener noreferrer">The individual members of "The Traditional Bourne Shell Family"</a></li>
+						<li><a href="https://www.in-ulm.de/~mascheck/bourne/common.html" target="_blank" rel="noopener noreferrer">Characteristical common properties of the traditional Bourne shells</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Bro" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Bro</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"Bro (software)" - Wikipedia</a></li>
+						<li><a href="https://www.bro.org/" target="_blank" rel="noopener noreferrer">Bro IDS Home page</a></li>
+						<li><a href="http://www.icir.org/vern/papers/bro-CN99.html" target="_blank" rel="noopener noreferrer">The original paper describing Bro</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C (programming language)" - Wikipedia</a></li>
+						<li><a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noopener noreferrer">ISO C Working Group Official website</a></li>
+						<li><a href="http://www.c-faq.com/" target="_blank" rel="noopener noreferrer">comp.lang.c Frequently Asked Questions</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C_shell" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C shell</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Bro_%28software%29" target="_blank" rel="noopener noreferrer">"C shell" - Wikipedia</a></li>
+						<li><a href="https://docs.freebsd.org/44doc/usd/04.csh/paper.html" target="_blank" rel="noopener noreferrer"><i>An Introduction to the C shell</i> by William Joy.</a></li>
+						<li><a href="https://docstore.mik.ua/orelly/linux/lnut/ch08_01.htm" target="_blank" rel="noopener noreferrer">Linux in a Nutshell: Chapter 8. csh and tcsh</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C_sharp" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C#</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29" target="_blank" rel="noopener noreferrer">"C Sharp (programming language)" - Wikipedia</a></li>
+						<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification" target="_blank" rel="noopener noreferrer">C# Language Specification (from MSDN)</a></li>
+						<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index" target="_blank" rel="noopener noreferrer">C# Programming Guide (MSDN)</a></li>
+						<li><a href="http://www.kunal-chowdhury.com/2016/01/csharp-basics.html#wEt7R6qV55ySmeZp.97" target="_blank" rel="noopener noreferrer">List of Key features introduced in #CSharp (1.0 to 6.0) - an Infographic</a></li>
+						<li><a href="https://www.visualstudio.com/" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C_plus_plus" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C++</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noopener noreferrer">"C++" - Wikipedia</a></li>
+						<li><a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">Standard C++ Foundation</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C_plus_plus_CLI" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C++/CLI</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/C++/CLI" target="_blank" rel="noopener noreferrer">"C++/CLI" - Wikipedia</a></li>
+						<li><a href="http://www.ecma-international.org/publications/standards/Ecma-372.htm" target="_blank" rel="noopener noreferrer">ECMA 372: C++/CLI Language Specification</a></li>
+						<li><a href="https://blogs.msdn.microsoft.com/hsutter/2003/11/23/ccli-keywords-under-the-hood/" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI keywords: Under the hood</a></li>
+						<li><a href="http://www.gotw.ca/publications/C++CLIRationale.pdf" target="_blank" rel="noopener noreferrer">Herb Sutter: C++/CLI Rationale</a></li>
+						<li><a href="https://msdn.microsoft.com/en-us/library/xey702bw.aspx" target="_blank" rel="noopener noreferrer">MSDN documentation for C++/CLI</a></li>
+					</ul>			
+			</div>
+			
+			<div id="C_Omega" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>C-Omega</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/C%CF%89" target="_blank" rel="noopener noreferrer">"Cω" - Wikipedia</a></li>
+						<li><a href="https://www.microsoft.com/en-us/research/project/comega/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fcambridge%2Fprojects%2Fcomega%2F" target="_blank" rel="noopener noreferrer">Comega - Microsoft Research</a></li>
+						<li><a href="https://msdn.microsoft.com/en-us/library/ms974195.aspx" target="_blank" rel="noopener noreferrer">"An Overview of Cω" - MSDN</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Caml" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Caml</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Caml" target="_blank" rel="noopener noreferrer">"Caml" - Wikipedia</a></li>
+						<li><a href="http://caml.inria.fr/" target="_blank" rel="noopener noreferrer">Caml - Official website</a></li>
+						<li><a href="https://caml.inria.fr/about/history.en.html" target="_blank" rel="noopener noreferrer">A History of Caml - Official website</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Ceylon" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Ceylon</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Ceylon_(programming_language)" target="_blank" rel="noopener noreferrer">"Ceylon" - Wikipedia</a></li>
+						<li><a href="https://ceylon-lang.org/" target="_blank" rel="noopener noreferrer">Ceylon - Official website</a></li>
+						<li><a href="https://ceylon-lang.org/documentation/1.2/spec/html_single/#compilationunitstructure" target="_blank" rel="noopener noreferrer">King, Gavin. "The Ceylon Language: &sect;4.1 Compilation unit structure"</a></li>
+					</ul>			
+			</div>
+			
+			<div id="CFML" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>CFML</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/ColdFusion_Markup_Language" target="_blank" rel="noopener noreferrer">"ColdFusion Markup Language" - Wikipedia</a></li>
+						<li><a href="https://cfdocs.org/" target="_blank" rel="noopener noreferrer">CFML documentation maintained by the community.</a></li>
+						<li><a href="https://github.com/mhenke/CFML-in-100-minutes/blob/develop/cfml100mins.markdown" target="_blank" rel="noopener noreferrer">CFML in 100 minutes — introduction to the basics of the CFML language.</a></li>
+						<li><a href="http://learncfinaweek.com/" target="_blank" rel="noopener noreferrer">A community driven training program that teaches the basics of CFML.</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Cg" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Cg</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Cg_%28programming_language%29" target="_blank" rel="noopener noreferrer">"Cg (programming language)" - Wikipedia</a></li>
+						<li><a href="https://arxiv.org/abs/cs/0302013" target="_blank" rel="noopener noreferrer">Cg in Two Pages</a></li>
+						<li><a href="https://developer.nvidia.com/cg-toolkit" target="_blank" rel="noopener noreferrer">Nvidia-hosted: Cg home page</a></li>
+					</ul>			
+			</div>
+			
+			<div id="Ch" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>Ch</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/Ch_%28computer_programming%29" target="_blank" rel="noopener noreferrer">"Ch (programming language)" - Wikipedia</a></li>
+						<li><a href="http://www.softintegration.com/" target="_blank" rel="noopener noreferrer">Ch - Official website</a></li>
+						<li><a href="http://www.mobilec.org/" target="_blank" rel="noopener noreferrer">Mobile-C: a Multi-Agent Platform for Mobile C/C++ Agents Home Page</a></li>
+						<li><a href="http://c-stem.ucdavis.edu/studio/" target="_blank" rel="noopener noreferrer">C-STEM Studio</a></li>
+					</ul>			
+			</div>
+			
+			<div id="CHILL" style="padding-top:.1%;padding-bottom:.1%;">
+				<h3><strong>CHILL</strong></h3>			
+					<p> </p>
+					<ul style="list-style:none;">
+						<li><a href="https://en.wikipedia.org/wiki/CHILL" target="_blank" rel="noopener noreferrer">"CHILL" - Wikipedia</a></li>
+						<li><a href="http://www.itu.int/rec/T-REC-Z.200/en" target="_blank" rel="noopener noreferrer">ITU Z.200 standard page</a>, has freely downloadable CHILL spec</li>
+						<li><a href="http://psc.informatik.uni-jena.de/languages/chill/chill.htm" target="_blank" rel="noopener noreferrer">The CHILL Homepage</a></li>
+						<li><a href="https://gcc.gnu.org/onlinedocs/gcc-2.95.3/chill.html" target="_blank" rel="noopener noreferrer">CDocumentation for GNU CHILL</a></li>
+					</ul>			
+			</div>
+			
 			
 		</ol>
 
